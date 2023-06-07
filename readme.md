@@ -1,0 +1,1 @@
+Neste projeto eu implementei tecnicas chamadas de (PARALLAX), que é a fixição de uma imagem de background com uma ilusão de estar fixa no fundo da pagina.
